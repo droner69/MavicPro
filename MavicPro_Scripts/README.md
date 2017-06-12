@@ -1,0 +1,1 @@
+/system/bin/ scripts extracted from wm220_0801_v01.04.17.03_20170120.pro.fw.sig of DJI Mavic Pro firmware 1.03.0400
