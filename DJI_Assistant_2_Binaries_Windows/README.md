@@ -34,6 +34,5 @@ https://mega.nz/#!Ee5CiSrC!oIE_y3cmA9Khg63u9NnQmoaUmEAFpmVE33nVz-HGpHU
 v 1.0.6 Oct 10th, 2016 MISSING DOWNLOAD
 
 
-v 1.0.5 Aug 8th, 2016: (v1.0.5 WAS NOT DOWNLOADED FROM THE DJI's WEBSITE. DOWNLOADED FROM "http://www.9upk.com/soft/87675.html" VirusTotal Scan: https://virustotal.com/en/file/801ad9668dffbc64a27ab115a57684ac6aa3d07b37d449f481d532a2aff6f046/analysis/1497359987/
+v 1.0.5 Aug 8th, 2016: (v1.0.5 WAS NOT DOWNLOADED FROM THE DJI's WEBSITE. DOWNLOADED FROM "http://www.9upk.com/soft/87675.html"
 https://mega.nz/#!QeQR1JAB!Hm1F4JHDJYCY7KgENi8rRNwVKrz-aOmFbdOuMwkadNQ
-
