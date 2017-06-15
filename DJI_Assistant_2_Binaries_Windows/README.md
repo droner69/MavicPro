@@ -1,10 +1,10 @@
-DJI Assistant 2 Windows Binaries
+DJI Assistant 2 Windows Binaries (Mega.co.nz Mirrors)
 
-v 1.1.2 May 27th ,2017 (Downloaded from DJI Website):
+v 1.1.2 May 27th, 2017 (Downloaded from DJI Website):
 https://mega.nz/#!pfhm2L7Q!JG5Kc48FSnkG2dXB86WcJM139f8eLmysy0OvGYEix6o
 
 
-v 1.1.1 April 25th , 2017 (Downloaded from DJI Website):
+v 1.1.1 April 25th, 2017 (Downloaded from DJI Website):
 https://mega.nz/#!hXZGkQAQ!fCdjAG-69o1mFbl46Om7og4IuicOtR4uHcgPp0Fonek
 
 
@@ -12,7 +12,7 @@ v 1.1.0-2 March 27th, 2017 (Downloaded from DJI Website):
 https://mega.nz/#!IWw1RSJL!jC-0PUODu1j3EWulMGImFjYwMPWhcfk-BItjq7M41mU
 
 
-v 1.1.0 March 2nd , 2017 (Downloaded from DJI Website):
+v 1.1.0 March 2nd, 2017 (Downloaded from DJI Website):
 https://mega.nz/#!oOx1kTxZ!k-4N9Aji4NlxxcMfffe0PHf7HmdguLVbdLXorrkbzms
 
 
