@@ -1,0 +1,36 @@
+#! /bin/sh
+#
+# Bridge eth0 and veth0
+#
+
+case "$1" in
+  start)
+	echo -n "Starting bridging: "
+	ifconfig eth0 0 down
+	ifconfig veth0 0 down
+
+	brctl addbr br0
+	brctl addif br0 eth0
+	brctl addif br0 veth0
+
+	ifconfig br0 192.168.2.12
+	ifconfig eth0 up
+	ifconfig veth0 up
+	echo "OK"
+	;;
+  stop)
+	echo -n "Stopping logging: "
+	ifconfig br0 down
+	brctl delbr br0
+	ifconfig eth0 192.168.1.12 up
+	ifconfig veth0 192.168.2.12 up
+	echo "OK"
+	;;
+  restart|reload)
+	;;
+  *)
+	echo "Usage: $0 {start|stop|restart}"
+	exit 1
+esac
+
+exit $?

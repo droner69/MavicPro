@@ -1,0 +1,14 @@
+#!/bin/sh
+
+# mount /pref
+touch /tmp/FL0/.exist 2>/dev/null
+if [ -e /tmp/FL0/.exist ]; then
+	mkdir -p /tmp/FL0/pref
+	mount --bind /tmp/FL0/pref /pref
+else
+	echo 'Warning: a:\ is offline!'
+	mkdir /tmp/pref
+	mount --bind /tmp/pref /pref
+fi
+
+exit $?

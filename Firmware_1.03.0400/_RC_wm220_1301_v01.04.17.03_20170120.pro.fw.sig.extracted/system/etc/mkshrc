@@ -1,0 +1,90 @@
+# Copyright (c) 2010, 2012, 2013
+#	Thorsten Glaser <tg@mirbsd.org>
+# This file is provided under the same terms as mksh.
+#-
+# Minimal /system/etc/mkshrc for Android
+#
+# Support: https://launchpad.net/mksh
+
+: ${TERM:=vt100} ${HOME:=/data} ${MKSH:=/system/bin/sh} ${HOSTNAME:=$(getprop ro.product.device)}
+: ${SHELL:=$MKSH} ${USER:=$(typeset x=$(id); x=${x#*\(}; print -r -- ${x%%\)*})} ${HOSTNAME:=android}
+if (( USER_ID )); then PS1='$'; else PS1='#'; fi
+function precmd {
+	typeset e=$?
+
+	(( e )) && print -n "$e|"
+}
+PS1='$BOOTMODE${BOOTMODE:+ }$(precmd)$USER@$HOSTNAME:${PWD:-?} '"$PS1 "
+export HOME HOSTNAME MKSH SHELL TERM USER
+alias l='ls'
+alias la='l -a'
+alias ll='l -l'
+alias lo='l -a -l'
+
+function hd {
+	cat "$@" | command hd /proc/self/fd/0
+}
+
+function more {
+	local dummy line llen curlin=0
+
+	cat "$@" | while IFS= read -r line; do
+		llen=${%line}
+		(( llen == -1 )) && llen=${#line}
+		(( llen = llen ? (llen + COLUMNS - 1) / COLUMNS : 1 ))
+		if (( (curlin += llen) >= LINES )); then
+			print -n -- '\033[7m--more--\033[0m'
+			read -u1 dummy
+			[[ $dummy = [Qq]* ]] && return 0
+			curlin=$llen
+		fi
+		print -r -- "$line"
+	done
+}
+
+function setenv {
+	eval export "\"$1\""'="$2"'
+}
+
+for p in ~/.bin; do
+	[[ -d $p/. ]] || continue
+	[[ :$PATH: = *:$p:* ]] || PATH=$p:$PATH
+done
+
+unset p
+
+# trap ctrl+c (SIGINT) signal to avoid user break
+function control_c {
+	echo "please input debug password before login"
+}
+
+# check whether we need check debug key
+cat /proc/cmdline | grep "production" >> /dev/null
+if [ $? == 0 -a ! -f /tmp/dji/secure_debug ]; then
+	# trap ctrl+c signal
+	trap control_c SIGINT
+
+	# get DAAK (Debug Application Authentication Key)
+	cmdline=`cat /proc/cmdline`
+	temp=${cmdline##*board_sn=}
+	board=${temp%% *}
+
+	while true; do
+		echo "target board serial number is: $board"
+		echo "input <username debuglevel password> to start debug, say:"
+		echo "    thomas.edison NonSecurePrivilege deadbeefdeadbeefdeadbeefdeadbeef"
+		read user level password
+		secure_debug.sh $user $level $password
+		if [ $? == 0 ]; then
+			break
+		fi
+	done
+
+	unset cmdline temp board
+	unset user level password
+
+	# untrap ctrl+c signal
+	trap - SIGINT
+fi
+
+: place customisations above this line

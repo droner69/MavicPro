@@ -1,0 +1,7 @@
+LOOP 1000
+	OPEN 0
+		PREVIEW -r 1920 1088 -c 30 -m 0 -fps 60 1
+		CAPTURE -r 4224 3120 -c 1 -m 1
+		PREVIEW -r 1920 1088 -c 30 -m 0 -fps 60 1
+	CLOSE
+LOOP 0

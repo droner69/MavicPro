@@ -1,0 +1,21 @@
+#! /bin/sh
+
+echo "d:\TSOUT_NFS.ash"
+echo "d:\TSOUT_NFS.ash" > /dev/ttyRSH1
+sleep 1
+
+echo "d:\XCODE_U2M_1080I_CFG.ash"
+echo "d:\XCODE_U2M_1080I_CFG.ash" > /dev/ttyRSH1
+sleep 2
+
+echo "d:\TSIN_NFS.ash"
+echo "d:\TSIN_NFS.ash" > /dev/ttyRSH1
+sleep 2
+
+echo "d:\PREVIEW_HD_1080I.ash"
+echo "d:\PREVIEW_HD_1080I.ash" > /dev/ttyRSH1
+sleep 5
+
+echo "d:\XCODE_U2M_1080I_START.ash"
+echo "d:\XCODE_U2M_1080I_START.ash" > /dev/ttyRSH1
+
