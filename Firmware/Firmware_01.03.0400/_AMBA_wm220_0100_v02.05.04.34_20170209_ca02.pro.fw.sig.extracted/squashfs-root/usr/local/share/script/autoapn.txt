@@ -1,0 +1,883 @@
+# Collected from internet by Michael Yao<ccyao@ambarella.com>
+#  THIS WORK IS IN PUBLIC DOMAIN:
+#  This database contains only information that is publicly available
+#  All contributors must surrender all copyright
+#MCC MNC APN Description
+310|38|pta|AT&T
+310|90|pta|AT&T
+310|150|pta|AT&T
+310|170|m2m.com.attz|AT&T
+310|410|pta|AT&T
+310|560|pta|AT&T
+310|680|pta|AT&T
+460|0|cmnet|China Mobile
+460|1|3gnet|China Unicom
+460|2|cmnet|China Mobile
+460|3|ctnet|China Telecom
+466|1|internet|Far EasTone / KGT
+466|89|vibo|Vibo Telecom / Aurora
+466|92|internet|Chunghwa Telecom
+466|99|internet|TW Mobile
+466|97|internet|TransAsia
+424|2|etisalat.ae|Etisalat
+424|3|du|du
+412|1|internet|AWCC
+276|2|vodafoneweb|Vodafone
+283|1|internet.beeline.am|Beeline
+283|10|internet|Orange
+283|5|inet.vivacell.am|VivaCell/MTS
+283|4|connect.kt.am|Karabakh Telecom
+631|2|internet.unitel.co.ao|Unitel
+722|341|datos.personal.com|Personal
+722|34|datos.personal.com|Personal
+722|340|arnet.personal.com|Arnet
+722|310|internet.ctimovil.com.ar|Claro
+722|320|internet.ctimovil.com.ar|Claro
+722|330|internet.ctimovil.com.ar|Claro
+722|10|internet.gprs.unifon.com.ar|Movistar
+722|70|internet.gprs.unifon.com.ar|Movistar
+232|1|aon.at|A1/Telekom Austria
+232|1|mdata.com|ABroadband
+232|11|mms.bob.at|Bob
+232|3|business.gprsinternet|T-Mobile
+232|7|web|tele.ring
+232|5|orange.web|Orange
+232|10|drei.at|Drei (3)
+232|12|web.yesss.at|Yesss
+232|3|volmobil|VOLmobil
+505|2|internet|Amaysim
+505|2|splns357|Apex Telecom
+505|2|splns357|Beagle
+505|2|connect|BLiNK
+505|3|purtona.net|Crazy John's
+505|38|purtona.net|Crazy John's
+505|2|DODOLNS1|Dodo
+505|2|splns357|Escape Net
+505|2|YesINTERNET|Exetel
+505|3|vfinternet.au|Exetel (Vodafone based)
+505|2|splns357|Highway1
+505|2|iinet|iiNet
+505|2|splns333a1|Internode
+505|2|primuslns1|iPrimus
+505|2|preconnect|Optus
+505|2|internet|TPG Mobile
+505|3|vfinternet.au|Pennytel
+505|2|splns357|Smelly Black Dog
+505|1|telstra.bigpond|Telstra
+505|6|3services|Three
+505|2|VirginBroadband|Virgin Mobile
+505|3|live.vodafone.com|Vodafone
+505|2|internet|Westnet
+400|1|internet|Azercell
+400|2|mms|Bakcell
+400|4|azerfon|Azerfon
+218|90|azerfon|BH GSM
+218|5|mtelfun|m:tel
+218|3|gprs.eronet.ba|HT-ERONET
+342|750|isp.digicelbarbados.com|Digicel
+470|2|internet|Robi (AKTel)
+470|3|blweb|Banglalink
+470|1|gpinternet|GrameenPhone
+470|7|internet|Airtel (Warid)
+470|4|wap|Teletalk
+206|10|mworld.be|Mobistar
+206|10|telenetwap.be|Telenet Mobile
+206|10|orangeinternet|Orange
+206|1|intraprox.be|Proximus
+206|20|gprs.base.be|Base
+206|20|web.be|Mobile Vikings
+613|2|internet|Airtel 3G
+284|5|internet.globul.bg|GloBul
+284|1|inet-gprs.mtel.bg|M-Tel
+284|3|internet.vivatel.bg|Vivacom
+426|1|internet.batelco.com|Batelco
+426|2|hsdpa|Zain BH
+426|4|viva.bh|STC
+724|16|brt.br|Brasil Telecom
+724|5|bandalarga.claro.com.br|Claro
+724|7|ctbc.br|CTBC
+724|32|ctbc.br|CTBC
+724|33|ctbc.br|CTBC
+724|34|ctbc.br|CTBC
+724|16|gprs.oi.com.br|Oi
+724|31|gprs.oi.com.br|Oi
+724|24|gprs.oi.com.br|Oi
+724|2|tim.br|TIM
+724|3|tim.br|TIM
+724|4|tim.br|TIM
+724|8|tim.br|TIM
+724|6|zap.vivo.com.br|Vivo
+724|10|zap.vivo.com.br|Vivo
+724|11|zap.vivo.com.br|Vivo
+724|23|zap.vivo.com.br|Vivo
+364|390|internet.btcbahamas.com|Batelco
+528|2|bmobilewap|B-Mobile
+528|11|dst.wap|DSTCOM
+257|1|vmi.velcom.by|velcom
+257|2|internet.mts.by|MTS
+257|3|internet.life.com.by|life:)
+652|1|internet.mascom|Mascom Wireless
+642|3|ucnet|Leo/UCom
+642|2|internet|Tempo/Africell
+302|370|internet.fido.ca|Fido
+302|720|internet.com|Rogers
+302|610|pda2.bell.ca|Bell Mobility
+302|640|pda2.bell.ca|Bell Mobility
+302|651|pda2.bell.ca|Bell Mobility
+302|880|pda2.bell.ca|Bell Mobility
+302|220|sp.telus.com|Telus Mobility
+302|860|sp.telus.com|Telus Mobility
+302|880|sp.telus.com|Telus Mobility
+302|500|ihvm.videotron|Videotron
+302|510|ihvm.videotron|Videotron
+302|490|internet.windmobile.ca|WIND Mobile
+302|320|internet.davewireless.com|Mobilicity
+630|1|vodanet|Vodacom
+228|3|internet|Orange
+228|2|mms.sunrise.ch|Sunrise
+228|1|event.swisscom.ch|Swisscom
+228|1|gprs.swisscom.ch|M-Budget
+612|5|internet|MTN
+730|3|bap.clarochile.cl|Claro Chile
+730|1|bam.entelpcs.cl|Entel PCS
+730|10|web.tmovil.cl|Movistar
+624|2|orangecmgprs|Orange
+624|1|INTERNET|MTN
+712|1|icecelular|IceCelular
+712|2|icecelular|IceCelular
+712|3|kolbi3g|Kolbi
+732|101|internet.comcel.com.co|Claro
+732|102|internet.movistar.com.co|Movistar
+732|123|internet.movistar.com.co|Movistar
+732|103|web.colombiamovil.com.co|Tigo
+732|111|web.colombiamovil.com.co|Tigo
+732|103|une4glte.net.co|UNE
+732|111|une4glte.net.co|UNE
+732|123|web.vmc.net.co|Virgin Mobile
+280|1|pp.internet|Cytamobile-Vodafone
+280|10|internet|MTN
+230|3|internet|Vodafone
+230|2|internet|O2
+230|1|internet.t-mobile.cz|T-Mobile
+262|3|tagesflat.eplus.de|AldiTalk/MedionMobile
+262|5|tagesflat.eplus.de|AldiTalk/MedionMobile
+262|77|tagesflat.eplus.de|AldiTalk/MedionMobile
+262|3|tagesflat.eplus.de|blau.de
+262|5|tagesflat.eplus.de|blau.de
+262|77|tagesflat.eplus.de|blau.de
+262|2|event.vodafone.de|Bild Mobil
+262|3|internet.eplus.de|E-Plus
+262|5|internet.eplus.de|E-Plus
+262|77|internet.eplus.de|E-Plus
+262|7|surfo2|O2
+262|8|surfo2|O2
+262|11|surfo2|O2
+262|7|webmobil1|Tchibo-Mobil
+262|8|webmobil1|Tchibo-Mobil
+262|11|webmobil1|Tchibo-Mobil
+262|1|internet.t-mobile|T-Mobile(Telekom)
+262|6|internet.t-mobile|T-Mobile(Telekom)
+262|1|internet.t-mobile|Congstar
+262|2|event.vodafone.de|Vodafone
+262|4|event.vodafone.de|Vodafone
+262|9|event.vodafone.de|Vodafone
+262|7|pinternet.interkom.de|FONIC
+262|8|pinternet.interkom.de|FONIC
+262|11|pinternet.interkom.de|FONIC
+262|3|internet.eplus.de|simyo Internet
+262|5|internet.eplus.de|simyo Internet
+262|77|internet.eplus.de|simyo Internet
+262|7|internet.partner1|Alice
+262|2|mail.partner.de|1&1
+262|4|mail.partner.de|1&1
+262|9|mail.partner.de|1&1
+262|7|pinternet.interkom.de|Netzclub
+262|8|pinternet.interkom.de|Netzclub
+262|11|pinternet.interkom.de|Netzclub
+238|6|static.tre.dk|3
+238|6|data.dk|OiSTER
+238|2|internet|Telenor
+238|77|internet|Telenor
+238|2|internet|CBB Mobil
+238|77|internet|CBB Mobil
+238|1|internet.se|TDC
+238|30|www.internet.mtelia.dk|Telia
+238|2|internet.bibob.dk|BiBoB
+238|1|internet|Telmore
+238|1|internet|Unotel
+238|1|internet|happiimobil
+238|1|internet|Onfone Internet DK
+370|1|orangenet.com.do|Orange
+370|2|internet.ideasclaro.com.do|Claro
+370|4|edge.viva.net.do|Viva
+603|2|djezzy.internet|Djezzy
+603|1|internet|Mobilis
+603|3|internet|Nedjma
+740|0|navega.movistar.ec|Movistar UMTS
+740|1|internet.porta.com.ec|Porta 3G
+248|1|internet.emt.ee|EMT
+248|1|internet.emt.ee|Nordea
+248|2|internet|Elisa
+248|3|internet.tele2.ee|Tele2
+602|2|internet.vodafone.net|Vodafone
+602|3|etisalat|Etisalat
+602|1|mobinilweb|MobiNil
+214|8|internet.euskaltel.mobi|Euskaltel
+214|3|internetmas|Masmovil
+214|17|internet.mundo-r.com|mobil R (Mundo-R)
+214|3|INTERNETTPH|Happy Movil/moviData
+214|18|internet.ono.com|ONO
+214|6|gprsmov.pepephone.com|Pepephone
+214|3|internet|Orange
+214|9|internet|Orange
+214|19|gprs-service.com|Simyo
+214|16|internet.telecable.es|Telecable
+214|5|movistar.es|Movistar (Telefonica)
+214|7|movistar.es|Movistar (Telefonica)
+214|1|airtelnet.es|Vodafone (Airtel)
+214|6|airtelnet.es|Vodafone (Airtel)
+214|4|internet|Yoigo
+214|21|jazzinternet|Jazztel
+214|5|tuenti.com|Tuenti Movil
+214|24|gprs.eroskimovil.es|Eroski Movil
+214|3|moreinternet|LlamaYa movil
+214|3|orangeworld|Amena
+636|1|etc.com|Ethio Telecom
+288|2|vmc.vodafone.fo|Vodafone FO
+244|31|kuirinet|Kuiri
+244|3|internet|Dna
+244|4|internet|Dna
+244|12|internet|Dna
+244|13|internet|Dna
+244|5|internet|Elisa
+244|21|internet|Saunalahti
+244|91|prointernet|Sonera
+542|1|prepay.vfinternet.fj|Vodafone / Kidanet
+208|20|pcebouygtel.com|Bouygues Telecom
+208|21|pcebouygtel.com|Bouygues Telecom
+208|15|free|Free Mobile
+208|1|orange.ie|Orange
+208|0|orange.ie|Orange
+208|10|internetneuf|SFR
+208|11|internetneuf|SFR
+208|22|netgprs.com|Transatel Telecom
+208|1|ofnew.fr|TEN
+234|15|asdamobiles.co.uk|Asda Mobile
+234|0|btmobile.bt.com|BT Mobile
+234|2|giffgaff.com|giffgaff
+234|10|giffgaff.com|giffgaff
+234|11|giffgaff.com|giffgaff
+234|2|m-bb.o2.co.uk|O2
+234|10|m-bb.o2.co.uk|O2
+234|11|m-bb.o2.co.uk|O2
+234|30|general.t-mobile.uk|T-Mobile
+234|2|prepay.tesco-mobile.com|Tesco Mobile
+234|10|prepay.tesco-mobile.com|Tesco Mobile
+234|11|prepay.tesco-mobile.com|Tesco Mobile
+234|31|goto.virginmobile.uk|Virgin Mobile
+234|32|goto.virginmobile.uk|Virgin Mobile
+234|15|pp.internet|Vodafone
+234|20|three.co.uk|3
+234|33|internetvpn|Orange
+234|34|internetvpn|Orange
+282|1|Internet|Geocell
+234|3|airtel-ci-gprs.com|Airtel-Vodaphone
+234|55|internet|Sure (Cable & Wireless)
+234|50|pepper|Wave Telecom
+620|1|internet|MTN
+620|2|browse|Vodafone
+620|3|web.tigo.com.gh|Tigo
+620|6|internet|Airtel
+620|7|internet|GloGhana
+202|1|internet|Cosmote
+202|5|web.session|Vodafone
+202|9|gint.b-online.gr|Wind
+202|10|gint.b-online.gr|Wind
+704|1|internet.ideasclaro|Claro
+704|2|Wap.tigo.gt|Comcel / Tigo
+704|3|internet.movistar.gt|Movistar
+738|2|wap.cellinkgy.com|GT&T Cellink Plus
+738|1|internet|DigiCel
+454|0|internet|CSL
+454|2|internet|CSL
+454|10|internet|New World
+454|12|peoples.net|China Mobile
+454|6|internet|SmarTone
+454|16|pccw|PCCW (Sunday)
+454|19|pccw|PCCW (Sunday)
+454|16|internet|Sunday
+454|4|web.orangehk.com|Orange
+454|3|mobile.three.com.hk|Three
+454|4|mobile.three.com.hk|Three
+708|2|internet.tigo.hn|Tigo
+219|1|web.htgprs|T-Mobile
+219|10|3g.vip.hr|VIPNET
+219|10|carnet.vip.hr|CARNet VIPNET
+219|2|carnet.tele2.hr|CARNet Tele2
+219|2|mobileinternet.tele2.hr|Tele2
+216|1|net|Telenor
+216|1|digi|DIGI
+216|30|internet|T-Mobile
+216|70|vitamax.internet.vodafone.net|Vodafone
+510|89|3data|3
+510|8|AXIS|AXIS
+510|21|indosatgprs|Indosat
+510|1|indosatgprs|Indosat
+510|10|internet|Telkomsel
+510|20|internet|Telkomsel
+510|11|www.xlgprs.net|Excelcomindo (XL)
+272|2|internet|O2
+272|1|live.vodafone.com|Vodafone
+272|3|broadband.eircommbb.ie|E-Mobile
+272|3|isp.mymeteor.ie|Meteor
+272|5|3ireland.ie|Three Ireland
+425|2|internetg|CellCom
+425|8|internet.golantelecom.net.il|GolanTelecom
+425|15|hcminternet|Home Cellular
+425|7|net.hotm|Hot Mobile
+425|1|uinternet|Orange
+425|3|internet.pelephone.net.il|Pelephone
+425|16|internet.rl|Rami Levi
+425|14|data.youphone.co.il|YouPhone 3G
+234|58|3gpronto|Manx Telecom
+234|36|internet|Sure (Cable & Wireless)
+234|55|internet|Sure (Cable & Wireless)
+404|17|aircelgprs.pr|AIRCEL
+404|28|aircelgprs.pr|AIRCEL
+404|29|aircelgprs.pr|AIRCEL
+404|37|aircelgprs.pr|AIRCEL
+404|41|aircelgprs.pr|AIRCEL
+404|42|aircelgprs.pr|AIRCEL
+404|91|aircelgprs.pr|AIRCEL
+405|800|aircelgprs.pr|AIRCEL
+405|801|aircelgprs.pr|AIRCEL
+405|802|aircelgprs.pr|AIRCEL
+405|803|aircelgprs.pr|AIRCEL
+405|804|aircelgprs.pr|AIRCEL
+405|805|aircelgprs.pr|AIRCEL
+405|806|aircelgprs.pr|AIRCEL
+405|807|aircelgprs.pr|AIRCEL
+405|808|aircelgprs.pr|AIRCEL
+405|809|aircelgprs.pr|AIRCEL
+405|810|aircelgprs.pr|AIRCEL
+405|811|aircelgprs.pr|AIRCEL
+405|812|aircelgprs.pr|AIRCEL
+404|2|airtelgprs.com|Airtel
+404|3|airtelgprs.com|Airtel
+404|6|airtelgprs.com|Airtel
+404|10|airtelgprs.com|Airtel
+404|28|airtelgprs.com|Airtel
+404|31|airtelgprs.com|Airtel
+404|37|airtelgprs.com|Airtel
+404|40|airtelgprs.com|Airtel
+404|41|airtelgprs.com|Airtel
+404|42|airtelgprs.com|Airtel
+404|45|airtelgprs.com|Airtel
+404|49|airtelgprs.com|Airtel
+404|70|airtelgprs.com|Airtel
+404|90|airtelgprs.com|Airtel
+404|92|airtelgprs.com|Airtel
+404|93|airtelgprs.com|Airtel
+404|96|airtelgprs.com|Airtel
+404|97|airtelgprs.com|Airtel
+404|98|airtelgprs.com|Airtel
+405|51|airtelgprs.com|Airtel
+405|52|airtelgprs.com|Airtel
+405|54|airtelgprs.com|Airtel
+405|56|airtelgprs.com|Airtel
+404|1|www|Vodafone
+404|5|www|Vodafone
+404|11|www|Vodafone
+404|13|www|Vodafone
+404|15|www|Vodafone
+404|20|www|Vodafone
+404|27|www|Vodafone
+404|30|www|Vodafone
+404|43|www|Vodafone
+404|46|www|Vodafone
+404|60|www|Vodafone
+404|84|www|Vodafone
+404|86|www|Vodafone
+404|88|www|Vodafone
+405|66|www|Vodafone
+405|750|www|Vodafone
+405|751|www|Vodafone
+405|752|www|Vodafone
+405|753|www|Vodafone
+405|754|www|Vodafone
+405|755|www|Vodafone
+405|756|www|Vodafone
+404|34|www.e.po|BSNL/CellOne
+404|38|www.e.po|BSNL/CellOne
+404|51|www.e.po|BSNL/CellOne
+404|53|www.e.po|BSNL/CellOne
+404|54|www.e.po|BSNL/CellOne
+404|55|www.e.po|BSNL/CellOne
+404|57|www.e.po|BSNL/CellOne
+404|58|www.e.po|BSNL/CellOne
+404|59|www.e.po|BSNL/CellOne
+404|62|www.e.po|BSNL/CellOne
+404|64|www.e.po|BSNL/CellOne
+404|66|www.e.po|BSNL/CellOne
+404|71|www.e.po|BSNL/CellOne
+404|72|www.e.po|BSNL/CellOne
+404|73|www.e.po|BSNL/CellOne
+404|74|www.e.po|BSNL/CellOne
+404|75|www.e.po|BSNL/CellOne
+404|76|www.e.po|BSNL/CellOne
+404|77|www.e.po|BSNL/CellOne
+404|80|www.e.po|BSNL/CellOne
+404|81|www.e.po|BSNL/CellOne
+404|4|internet|Idea Cellular
+404|7|internet|Idea Cellular
+404|12|internet|Idea Cellular
+404|14|internet|Idea Cellular
+404|19|internet|Idea Cellular
+404|22|internet|Idea Cellular
+404|24|internet|Idea Cellular
+404|44|internet|Idea Cellular
+404|56|internet|Idea Cellular
+404|82|internet|Idea Cellular
+405|70|internet|Idea Cellular
+405|799|internet|Idea Cellular
+405|845|internet|Idea Cellular
+405|848|internet|Idea Cellular
+405|850|internet|Idea Cellular
+404|68|gprsmtnlmum|MTNL
+404|69|gprsmtnlmum|MTNL
+404|9|rcomnet|Reliance
+404|36|rcomnet|Reliance
+404|52|rcomnet|Reliance
+404|83|rcomnet|Reliance
+404|85|rcomnet|Reliance
+405|5|rcomnet|Reliance
+405|10|rcomnet|Reliance
+405|13|rcomnet|Reliance
+404|14|simplydownload|Spice telecom
+404|44|simplydownload|Spice telecom
+405|25|TATADOCOMO3G|Tata Docomo
+405|26|TATADOCOMO3G|Tata Docomo
+405|27|TATADOCOMO3G|Tata Docomo
+405|29|TATADOCOMO3G|Tata Docomo
+405|30|TATADOCOMO3G|Tata Docomo
+405|31|TATADOCOMO3G|Tata Docomo
+405|32|TATADOCOMO3G|Tata Docomo
+405|34|TATADOCOMO3G|Tata Docomo
+405|35|TATADOCOMO3G|Tata Docomo
+405|36|TATADOCOMO3G|Tata Docomo
+405|37|TATADOCOMO3G|Tata Docomo
+405|38|TATADOCOMO3G|Tata Docomo
+405|39|TATADOCOMO3G|Tata Docomo
+405|41|TATADOCOMO3G|Tata Docomo
+405|42|TATADOCOMO3G|Tata Docomo
+405|43|TATADOCOMO3G|Tata Docomo
+405|44|TATADOCOMO3G|Tata Docomo
+405|45|TATADOCOMO3G|Tata Docomo
+405|46|TATADOCOMO3G|Tata Docomo
+405|47|TATADOCOMO3G|Tata Docomo
+418|40|net.korek.com|Korek
+418|50|net.asiacell.com|Asia Cell
+432|11|mcinet|????? ???
+432|35|mtnirancell|???????
+274|2|vmc.gprs.is|Vodafone
+274|3|vmc.gprs.is|Vodafone
+274|11|internet.nova.is|Nova
+274|1|wap.simi.is|Siminn
+222|10|web.omnitel.it|Vodafone
+222|1|ibox.tim.it|TIM
+222|88|internet.wind.biz|Wind
+222|99|datacard.tre.it|3
+222|99|datacard.fastweb.it|Fastweb
+222|10|internet.postemobile.it|PosteMobile
+222|1|web.coopvoce.it|CoopVoce
+222|99|internet.vistream.it|Bip
+222|7|web.noverca.it|Noverca
+222|1|tiscalimobileinternet|Tiscali
+234|3|airtel-ci-gprs.com|Airtel-Vodaphone
+234|55|internet|Sure (Cable & Wireless)
+234|50|pepper|Jersey Telecom
+338|20|wap|Cable & Wireless
+338|50|web.digiceljamaica.com|Digicel
+416|77|net.orange.jo|Orange
+416|1|zain|Zain
+440|4|softbank|Softbank Mobile
+440|6|softbank|Softbank Mobile
+440|20|softbank|Softbank Mobile
+440|40|softbank|Softbank Mobile
+440|41|softbank|Softbank Mobile
+440|42|softbank|Softbank Mobile
+440|43|softbank|Softbank Mobile
+440|44|softbank|Softbank Mobile
+440|45|softbank|Softbank Mobile
+440|46|softbank|Softbank Mobile
+440|47|softbank|Softbank Mobile
+440|48|softbank|Softbank Mobile
+440|90|softbank|Softbank Mobile
+440|92|softbank|Softbank Mobile
+440|93|softbank|Softbank Mobile
+440|94|softbank|Softbank Mobile
+440|95|softbank|Softbank Mobile
+440|96|softbank|Softbank Mobile
+440|97|softbank|Softbank Mobile
+440|98|softbank|Softbank Mobile
+440|10|dm.jplat.net|b-mobile
+440|0|emb.ne.jp|e-mobile
+440|1|mopera.net|NTTdocomo
+440|2|mopera.net|NTTdocomo
+440|3|mopera.net|NTTdocomo
+440|9|mopera.net|NTTdocomo
+440|10|mopera.net|NTTdocomo
+440|11|mopera.net|NTTdocomo
+440|12|mopera.net|NTTdocomo
+440|13|mopera.net|NTTdocomo
+440|14|mopera.net|NTTdocomo
+440|15|mopera.net|NTTdocomo
+440|16|mopera.net|NTTdocomo
+440|17|mopera.net|NTTdocomo
+440|18|mopera.net|NTTdocomo
+440|19|mopera.net|NTTdocomo
+440|21|mopera.net|NTTdocomo
+440|22|mopera.net|NTTdocomo
+440|23|mopera.net|NTTdocomo
+440|24|mopera.net|NTTdocomo
+440|25|mopera.net|NTTdocomo
+440|26|mopera.net|NTTdocomo
+440|27|mopera.net|NTTdocomo
+440|28|mopera.net|NTTdocomo
+440|29|mopera.net|NTTdocomo
+440|30|mopera.net|NTTdocomo
+440|31|mopera.net|NTTdocomo
+440|32|mopera.net|NTTdocomo
+440|33|mopera.net|NTTdocomo
+440|34|mopera.net|NTTdocomo
+440|35|mopera.net|NTTdocomo
+440|36|mopera.net|NTTdocomo
+440|37|mopera.net|NTTdocomo
+440|38|mopera.net|NTTdocomo
+440|39|mopera.net|NTTdocomo
+440|49|mopera.net|NTTdocomo
+440|58|mopera.net|NTTdocomo
+440|60|mopera.net|NTTdocomo
+440|61|mopera.net|NTTdocomo
+440|62|mopera.net|NTTdocomo
+440|63|mopera.net|NTTdocomo
+440|64|mopera.net|NTTdocomo
+440|65|mopera.net|NTTdocomo
+440|66|mopera.net|NTTdocomo
+440|67|mopera.net|NTTdocomo
+440|68|mopera.net|NTTdocomo
+440|69|mopera.net|NTTdocomo
+440|87|mopera.net|NTTdocomo
+440|99|mopera.net|NTTdocomo
+639|3|ke.celtel.com|Airtel
+639|2|safaricom|Safaricom
+639|5|internet.econet.co.ke|yu (Econet)
+639|7|bew.orange.co.ke|Orange
+437|1|internet.beeline.kg|Beeline
+437|5|internet|MegaCom
+437|9|internet|O!
+456|1|cellcard|Cellcard
+456|2|hellowww|Hello
+456|4|WAP|qb
+456|6|smart|Smart Mobile
+456|8|metfone|Metfone
+456|9|gprs.beeline.com.kh|Beeline
+456|18|Mfone|Mfone
+450|8|hsdpa-internet.ktfwing.com|KTF
+450|6|internet.lguplus.co.kr|LGUPlus
+450|5|nate.sktelecom.com|SKTelecom
+419|2|apn01|Zain
+419|3|action.wataniya.com|Wataniya
+419|4|viva|Viva
+401|1|internet.beeline.kz|Beeline
+401|2|internet|K'CELL
+401|2|internet|Activ
+401|77|internet|Tele2
+457|2|etlnet|ETL
+457|1|ltcnet|Lao Telecom
+457|3|unitel3g|Unitel
+457|8|beelinenet|Beeline (Tigo)
+415|3|gprs.mtctouch.com.lb|MTC Touch
+358|110|internet|Cable & Wireless
+413|5|www.wap.airtel.lk|Airtel
+413|2|kitbb.com|Dialog GSM
+413|8|htwap|Hutch
+413|1|isp|Mobitel
+413|3|wap|Tigo
+651|1|internet|Vodacom Lesotho
+246|2|banga|Bite
+246|3|internet.tele2.lt|TELE2 GPRS
+246|1|gprs.startas.lt|Omnitel (contract)
+270|1|web.pt.lu|LUXGSM
+270|77|internet|Tango
+270|99|orange.lu|Orange
+270|99|vox.lu|VOXmobile
+247|1|okarte.lmt.lv|LMT
+247|2|data.tele2.lv|Tele2
+247|5|internet|Bite
+604|1|www.iamgprs2.ma|Ittissalat Al Maghrib (IAM)
+604|0|internet2.meditel.ma|Medi Telecom
+604|2|www.wana.ma|WANA
+259|2|internet|Moldcell
+259|5|internet3g.unite.md|Unite
+259|1|internet|Orange
+297|1|gprs.promonte.com|ProMonte GSM
+297|2|internet-prepaid|T-Mobile
+297|3|gprsinternet|m:tel
+646|1|internet|Airtel
+646|2|orangeworld|Orange
+646|4|internet|Telma
+610|1|web.malitel3.ml|Malitel
+610|2|internet|Orange
+414|1|mptnet|MPT
+428|99|internet|MobiCom
+455|3|web.hutchisonmacau.com|3 / Hutchison
+455|5|web.hutchisonmacau.com|3 / Hutchison
+455|1|ctm-mobile|CTM
+455|4|ctm-mobile|CTM
+294|1|internet|T-Mobile
+294|2|datacard|One
+294|3|vipoperator|Vodafone
+278|21|rtgsurfing|GO Mobile
+278|1|Internet|Vodafone
+617|10|WEB|Emtel
+472|1|internet.dhimobile|Dhiraagu
+472|2|WataniyaNet|Wataniya
+650|1|Internet|TNM
+334|2|internet.itelcel.com|Telcel
+334|3|internet.movistar.mx|Movistar
+502|16|3gdgnet|DiGi
+502|12|unet|Maxis
+502|17|unet|Maxis
+502|13|celcom3g|Celcom
+502|19|celcom3g|Celcom
+643|1|isp.mcel.mz|MCel
+643|4|internet|Vodacom
+649|1|internet|MTC
+649|3|internet|Leo
+621|20|internet.ng.airtel.com.ng|Airtel NG
+621|80|internet.ng.airtel.com.ng|Airtel NG
+621|30|web.gprs.mtnnigeria.net|MTN
+621|60|web.gprs.mtnnigeria.net|MTN
+621|50|gloflat|Glo Mobile
+621|70|gloflat|Glo Mobile
+621|90|etisalat|Etisalat
+710|21|internet.ideasalo.ni|Claro
+710|73|internet.ideasalo.ni|Claro
+710|30|internet.movistar.ni|Movistar
+204|8|portalmmm.nl|Hi
+204|12|multimedia.lebara.nl|Lebara
+204|9|data.lycamobile.nl|Lycamobile
+204|8|noapn|KPN NL
+204|8|portalmmm.nl|MEDIONmobile
+204|10|portalmmm.nl|MEDIONmobile
+204|12|internet|Telfort
+204|16|internet|T-Mobile
+204|16|internet.ben|Ben
+204|20|internet|Orange
+204|2|data.tele2.nl|Tele2
+204|4|m2m.global.vodafone.nl|Vodafone
+204|8|internet|Galaxy
+242|2|internet.netcom.no|Netcom
+242|2|netcom|Chess
+242|1|telenor|Telenor
+242|8|internet.no|TDC
+242|5|internet|Network Norway
+242|5|internet|OneCall
+242|5|internet|MyCall
+242|5|internet|Telipol
+242|7|internet.ventelo.no|Ventelo
+242|7|internet.ventelo.no|Ludo Mobil
+242|2|mobileinternet.tele2.no|Tele2
+242|4|mobileinternet.tele2.no|Tele2
+429|1|ntnet|Nepal Telecom
+429|2|mero|Mero Mobile
+530|0|oa.telecom.co.nz|Telecom New Zealand
+530|5|oa.telecom.co.nz|Telecom New Zealand
+530|1|internet|Vodafone
+530|24|internet|2-Degrees
+422|2|internet|Oman Mobile
+422|3|isp.nawras.com.om|Nawras
+714|1|apn01.cwpanama.com.pa|Cable and Wireless
+714|2|internet.movistar.pa|Movistar
+716|10|ba.amx|Claro
+716|6|movistar.pe|Movistar
+716|7|datacard.nextel.com.pe|Nextel
+547|20|internet|Vini
+537|3|internet.digicelpng.com|Digicel
+515|2|www.globe.com.ph|Globe Telecom
+515|3|internet|Smart
+515|5|minternet|Digitel (Sun Cellular)
+515|6|internet|Djuice
+515|1|jazzconnect.mobilinkworld.com|Mobilink
+515|6|internet|Telenor
+410|3|ufone.internet|Ufone
+515|7|warid|Warid
+515|4|zonginternet|ZONG
+260|2|internet|T-mobile
+260|6|internet|Play Online
+260|3|vpn|Orange
+260|1|optimizer|Plus
+260|12|multi.internet|Cyfrowy Polsat
+260|17|darmowy|aero2
+260|3|telogic.internet|Multimo
+260|1|freedata.pl|FreeM
+260|2|heyah.pl|Heyah
+260|1|internet.gadu-gadu.pl|GaduAIR
+260|3|aster.internet|Aster
+260|6|internet|Netia
+260|6|internet|Vectra
+260|1|www.mobile.pl|mBank mobile
+260|3|telogic.internet|INEA
+260|2|wapMOBILKING|Mobilking
+260|1|www.plusgsm.pl|SamiSwoi
+268|3|noapn|Kanguru
+268|3|clixinternetmovel|Clix
+268|3|internet|Optimus
+268|6|internet|TMN
+268|1|net2.vodafone.pt|Vodafone
+268|1|internet.zon.pt|ZON
+744|1|vox.wap|VOX
+744|5|internet|Personal
+744|4|broadband.tigo.py|Tigo
+744|2|gprs.claro.com.py|Claro
+427|2|vodafone.com.qa|Vodafone
+427|1|gprs.qtel|Q-Tel
+647|10|ipnet|SFR Reunion
+226|10|internet|Orange
+226|1|live.pre.vodafone.ro|Vodafone
+226|5|static|Digi.Net Mobil
+220|1|internet|Telenor
+220|3|gprsinternet|Telekom Srbija
+220|5|vipmobile|VIP Mobile
+635|10|internet.mtn|MTN
+635|13|web.tigo.rw|Tigo
+250|12|inet.bwc.ru|BaikalWestCom
+250|28|internet.beeline.ru|Beeline
+250|99|internet.beeline.ru|Beeline
+250|5|wap.etk.ru|ETK
+250|1|internet.mts.ru|MTS
+250|2|internet|Megafon
+250|3|internet|NCC
+250|16|internet.ntc|NTC
+250|5|internet.etk.ru|Enisey TeleCom
+250|35|inet.ycc.ru|Motiv
+250|20|internet.tele2.ru|Tele2
+250|39|internet.usi.ru|U-tel
+420|3|web2|Mobily
+420|1|jawalnet.com.sa|STC
+420|4|zain|Zain
+240|2|net.tre.se|3
+240|4|net.tre.se|3
+240|8|internet.glocalnet.se|Glocalnet
+240|1|halebop.telia.se|Halebop
+240|7|mobileinternet.tele2.se|Tele2
+240|5|mobileinternet.tele2.se|Tele2
+240|7|mobileinternet.tele2.se|Comviq
+240|5|mobileinternet.tele2.se|Comviq
+240|1|mobiflex.telia.se|Multicom Security
+240|5|mobiflex.telia.se|Multicom Security
+240|4|bredband.telenor.se|Telenor
+240|6|bredband.telenor.se|Telenor
+240|8|bredband.telenor.se|Telenor
+240|1|online.telia.se|Telia
+240|5|online.telia.se|Telia
+240|14|internet.se|TDC
+240|9|internet.djuice.se|djuice
+240|2|bredband.comhem.se|Com Hem
+240|4|bredband.comhem.se|Com Hem
+240|7|internet.parlino.se|Parlino
+525|3|sunsurfmcard|M1
+525|1|internet|SingTel
+525|2|internet|SingTel
+525|5|shinternet|Starhub
+293|41|internetpro|Mobitel
+293|40|internet.simobil.si|Vodafone / Simobil
+293|64|internet.t-2.net|T-2
+231|2|internet|Slovak Telekom
+231|4|internet|Slovak Telekom
+231|1|internet|Orange
+231|6|o2internet|O2
+608|2|wap.sentelgsm.com|Tigo
+706|4|internet.movistar.sv|Movistar
+706|2|wap.digicelsv.com|digicel
+706|3|internet.tigo.sv|Tigo
+706|10|internet.ideasclaro|Claro
+634|1|internet|Zain
+634|2|internet|MTN
+634|7|sudaninet|Sudani
+520|1|internet|AIS
+520|18|www.dtac.co.th|DTAC
+520|99|internet|True Move
+520|15|internet|TOT 3G
+605|1|keypro|Orange
+605|2|internet.tn|Tunisie Telecom / TUNTEL
+605|3|internet.tunisiana.com|Tunisiana
+286|3|aycell|Avea
+286|4|aycell|Avea
+286|1|mgb|Turkcell
+286|2|edge.kktctelsim.com|Vodafone
+374|13|wap.digiceltt.com|Digicel
+374|12|internet|bmobile / TSTT
+640|5|internet|Airtel Tanzania
+640|4|internet|Vodacom
+640|3|znet|Zantel
+640|2|internet|tiGO
+255|3|3g.kyivstar.net|kyivstar
+255|3|3g.kyivstar.net|Djuice
+255|6|speed|life:)
+255|2|internet.beeline.ua|Beeline
+255|1|hyper.net|Jeans
+255|1|www.umc.ua|MTS
+255|7|3g.utel.ua|Utel
+641|10|yellopix.mtn.co.ug|MTN
+641|14|orange.ug|Orange
+641|11|utweb|UTL
+641|22|web.waridtel.co.ug|Warid
+641|1|web.ug.zain.com|Zain
+310|26|internet3.voicestream.com|T-Mobile
+310|160|internet3.voicestream.com|T-Mobile
+310|200|internet3.voicestream.com|T-Mobile
+310|210|internet3.voicestream.com|T-Mobile
+310|220|internet3.voicestream.com|T-Mobile
+310|230|internet3.voicestream.com|T-Mobile
+310|240|internet3.voicestream.com|T-Mobile
+310|250|internet3.voicestream.com|T-Mobile
+310|260|internet3.voicestream.com|T-Mobile
+310|270|internet3.voicestream.com|T-Mobile
+310|310|internet3.voicestream.com|T-Mobile
+310|490|internet3.voicestream.com|T-Mobile
+310|580|internet3.voicestream.com|T-Mobile
+310|660|internet3.voicestream.com|T-Mobile
+310|800|internet3.voicestream.com|T-Mobile
+310|420|wap.gocbw.com|Cincinnati Bell Wireless
+310|995|vzwinternet|Verizon
+311|480|vzwinternet|Verizon
+310|590|vzwinternet|Alltel
+310|0|vzwinternet|Cricket Communications
+311|570|ISP|BendBroadband
+310|570|wapgw.chinookwireless.net|MTPCS (Cellular One)
+310|410|tfdata|Straight Talk
+748|0|gprs.ancel|Ancel
+748|1|gprs.ancel|Ancel
+748|10|internet.ctimovil.com.uy|Claro
+748|7|webapn.movistar.com.uy|Movistar
+434|4|internet.beeline.uz|Beeline
+434|7|net.mts.uz|MTS (Uzdunrobita)
+434|5|internet|Ucell
+360|70|wap.digiceloecs.com|Digicel
+734|1|gprsweb.digitel.ve|Digitel TIM
+734|2|gprsweb.digitel.ve|Digitel TIM
+734|3|gprsweb.digitel.ve|Digitel TIM
+734|6|int.movilnet.com.ve|Movilnet
+734|4|internet.movistar.ve|Movistar
+452|1|m-wap|MobiFone
+452|2|m3-card|Vinaphone
+452|4|e-connect|Viettel Mobile
+452|5|internet|Vietnamobile
+452|8|e-internet|EVNTelecom/E-Mobile
+452|7|internet|Beeline VN
+655|7|internet|Cell-c
+655|10|internet|MTN
+655|1|unrestricted|Vodacom
+655|7|vdata|Virgin Mobile

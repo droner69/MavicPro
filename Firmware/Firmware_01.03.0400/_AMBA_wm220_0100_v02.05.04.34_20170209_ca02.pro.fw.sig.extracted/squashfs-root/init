@@ -1,0 +1,11 @@
+#!/bin/sh
+# devtmpfs does not get automounted for initramfs
+/bin/mount -t devtmpfs devtmpfs /dev
+
+[ -f /etc/init.d/nfsroot.sh ] && source /etc/init.d/nfsroot.sh
+
+exec 0</dev/console
+exec 1>/dev/console
+exec 2>/dev/console
+
+exec /sbin/init $*

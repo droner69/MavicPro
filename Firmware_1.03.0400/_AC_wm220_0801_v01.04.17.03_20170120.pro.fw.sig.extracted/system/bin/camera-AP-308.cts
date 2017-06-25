@@ -1,5 +1,0 @@
-LOOP 10
-	OPEN 0
-		preview -r 1920 1088 -m 0 -c 100
-	CLOSE
-LOOP 0

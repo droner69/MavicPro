@@ -1,0 +1,47 @@
+#! /bin/sh
+
+#     - mntdir=/mnt/nfs
+#                The local mount point on A8. It will be created if not existing yet.
+#
+#     - nfsroot=192.168.1.10:/pub/rootfs
+#                The location of the rootfs/ (untar-ed rootfs.tar) on a NFS server.
+#                defatlt to 192.168.1.10:/pub/rootfs
+#
+#     - share=192.168.1.10:/pub/share
+#                We suggest to mount an additional NFS mount point as working directory.
+#                So the working files as videos, logs, anything else that doesn’t come from
+#                the rootfs.tar can be kept across different update over being overwritten.
+
+# default settings
+MNTDIR=/mnt/rootfs
+NFSROOT=192.168.1.10:/pub/rootfs
+SHARE=192.168.1.10:/pub/share
+
+# override default settings if specified
+for x in $*; do
+        case $x in
+	mntdir=*)
+                MNTDIR="${x#mntdir=}"
+		;;
+	nfsroot=*)
+                NFSROOT="${x#nfsroot=}"
+		;;
+	share=*)
+                SHARE="${x#share=}"
+                ;;
+	esac
+done
+
+chmod a+rw /dev/video*
+
+mkdir -p ${MNTDIR}
+mount -t nfs -o nolock ${NFSROOT} ${MNTDIR}
+mount -o bind /dev ${MNTDIR}/dev
+mount -t proc none ${MNTDIR}/proc
+mount -t sysfs none ${MNTDIR}/sys
+mount -t tmpfs none ${MNTDIR}/tmp
+
+mkdir -p ${MNTDIR}/share
+mount -t nfs -o nolock ${SHARE} ${MNTDIR}/share
+
+chroot ${MNTDIR} /bin/sh

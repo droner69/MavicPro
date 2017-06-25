@@ -1,0 +1,16 @@
+#! /bin/sh
+
+echo "d:\TSOUT_NFS.ash"
+echo "d:\TSOUT_NFS.ash" > /dev/ttyRSH1
+sleep 2
+echo "d:\VIN_1080I.ash"
+echo "d:\VIN_1080I.ash" > /dev/ttyRSH1
+sleep 2
+echo "d:\ENC_MPEG2_1080I_CFG.ash"
+echo "d:\ENC_MPEG2_1080I_CFG.ash" > /dev/ttyRSH1
+sleep 2
+echo "d:\PREVIEW_HD_1080I.ash"
+echo "d:\PREVIEW_HD_1080I.ash" > /dev/ttyRSH1
+sleep 5
+echo "d:\ENC_MPEG2_1080I_START.ash"
+echo "d:\ENC_MPEG2_1080I_START.ash" > /dev/ttyRSH1

@@ -1,0 +1,10 @@
+#!/bin/sh
+
+echo 'S99bootdone is running...'
+
+#send boot_done to RTOS
+if [ -x /usr/bin/SendToRTOS ]; then
+	/usr/bin/SendToRTOS boot_done
+fi
+
+exit $?
