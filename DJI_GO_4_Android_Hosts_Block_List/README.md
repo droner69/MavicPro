@@ -1,0 +1,1 @@
+Hosts to block while using the DJI GO 4 app on android to block DJI, but allow maps to work.
