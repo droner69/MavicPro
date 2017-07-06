@@ -1,1 +1,1 @@
-Hosts to block while using the DJI GO 4 app on android to block DJI, but allow maps to work. Tested on v4.0.7.
+Hosts to block while using the DJI GO 4 app on android to block DJI, but allow maps to work. Tested on v4.1.3.
