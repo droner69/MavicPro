@@ -1,1 +1,1 @@
-DJI Mavic Pro Commands and Parameters
+DJI Mavic Pro Commands and Parameters for 0.400 and 0.700
