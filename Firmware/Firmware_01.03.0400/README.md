@@ -1,5 +1,15 @@
 Mavic Pro Firmware v01.03.0400
 
+V01.03.0400_Mavic_dji_system.bin
+https://mega.nz/#!Muw3ACqL!8IMateWPxpG5YGgnRc2UNte1l5ojO0zRS3w599X6QZ8
+
+
+V01.03.0400_RC_Mavic_dji_system.
+https://mega.nz/#!UuoiGAoS!oGsbk7dPkjpiwGMhY-DimTT2a5_AjhC3ETylpBo4fEw
+
+
+
+
 
 binwalk extracted files
 
